@@ -2,6 +2,13 @@
 
 **SnapBite** is a full-featured, modern web application that allows users to **browse food menus, manage their cart, place secure orders**, and track them in real time. Built with **React.js**, **Node.js**, and **MongoDB**, SnapBite delivers a seamless food ordering experience — from browsing to billing.
 
+
+
+
+<h1>
+  For Security reasons Please wait for 30 Second As the will have to load and estalish a realiable network.
+</h1>
+
 > 💻 **Live Project**: [Click here to explore SnapBite](https://food-del-frontend-fsqe.onrender.com)  
 > 🛠️ **Source Code**: [GitHub Repo](https://github.com/SehajbirSinghPadam/food-del)
 

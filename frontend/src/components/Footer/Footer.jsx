@@ -12,7 +12,7 @@ const Footer = () => {
 
   const contactInfo = [
     { type: 'phone', value: '9779665444' },
-    { type: 'email', value: 'PrinceKumar@gmail.com' },
+    { type: 'email', value: 'singhsehajbir1906@gmail.com' },
   ];
 
   return (
@@ -59,7 +59,7 @@ const Footer = () => {
 
       <hr />
       <p className="footer-copyright">
-        &copy; 2024 Snapbite.com - All Rights Reserved.
+        &copy; 2026 Snapbite.com - All Rights Reserved.
       </p>
     </div>
   );

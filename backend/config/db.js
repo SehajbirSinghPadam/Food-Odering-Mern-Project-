@@ -4,3 +4,6 @@ export const connectDb = async ()=>{
     await mongoose.connect(process.env.MONGO_URI)
     .then(()=>console.log("!!!! Db Connected Suceessfully    !!!"));
 }
+
+
+Backchode maat karr lodee khud bnaa apna project 
